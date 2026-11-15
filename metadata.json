@@ -1,0 +1,8 @@
+{
+  "name": "Astriva",
+  "description": "An interactive storybook where real NASA robotic explorers of the Moon and Mars come alive to share their true missions and adventures.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
